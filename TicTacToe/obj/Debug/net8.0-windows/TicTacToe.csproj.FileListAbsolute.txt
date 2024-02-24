@@ -18,3 +18,4 @@ C:\Fun\c#\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\refint\TicTacToe.dll
 C:\Fun\c#\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.pdb
 C:\Fun\c#\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.genruntimeconfig.cache
 C:\Fun\c#\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\ref\TicTacToe.dll
+C:\Fun\c#\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.sourcelink.json
